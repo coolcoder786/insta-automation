@@ -9,7 +9,7 @@ bot.upload_photo("sample.png", caption="sample caption")
 bot.follow("cool_programmer7")
 
 ######  send a message #######
-bot.send_message("Hello", ['user's name'])
+bot.send_message("Hello", ["user's name"])
 
 ######  get follower info #######
 
